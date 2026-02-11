@@ -1,4 +1,4 @@
-﻿using Konstruktor;
+﻿
 
 namespace Vlastnosti
 {

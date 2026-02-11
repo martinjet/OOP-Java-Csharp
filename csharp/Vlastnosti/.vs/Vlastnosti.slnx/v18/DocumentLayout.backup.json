@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Vlastnosti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F41A0595-636C-425E-9A85-402898ABAFAB}|Vlastnosti\\Vlastnosti.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\vlastnosti\\vlastnosti\\clovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F41A0595-636C-425E-9A85-402898ABAFAB}|Vlastnosti\\Vlastnosti.csproj|solutionrelative:vlastnosti\\clovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F15D4F1F-0FCB-0DA0-22F9-613400E468BD}|Vlastnosti\\Vlastnosti.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\vlastnosti\\vlastnosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15D4F1F-0FCB-0DA0-22F9-613400E468BD}|Vlastnosti\\Vlastnosti.csproj|solutionrelative:vlastnosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F41A0595-636C-425E-9A85-402898ABAFAB}|Vlastnosti\\Vlastnosti.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\vlastnosti\\vlastnosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F41A0595-636C-425E-9A85-402898ABAFAB}|Vlastnosti\\Vlastnosti.csproj|solutionrelative:vlastnosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F15D4F1F-0FCB-0DA0-22F9-613400E468BD}|Vlastnosti\\Vlastnosti.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\vlastnosti\\vlastnosti\\clovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15D4F1F-0FCB-0DA0-22F9-613400E468BD}|Vlastnosti\\Vlastnosti.csproj|solutionrelative:vlastnosti\\clovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,13 +22,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Clovek.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Vlastnosti\\Vlastnosti\\Clovek.cs",
               "RelativeDocumentMoniker": "Vlastnosti\\Clovek.cs",
               "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Vlastnosti\\Vlastnosti\\Clovek.cs*",
               "RelativeToolTip": "Vlastnosti\\Clovek.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAADUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T12:45:20.888Z",
               "EditorCaption": ""
@@ -41,13 +41,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Vlastnosti\\Vlastnosti\\Program.cs",
               "RelativeDocumentMoniker": "Vlastnosti\\Program.cs",
-              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Vlastnosti\\Vlastnosti\\Program.cs",
-              "RelativeToolTip": "Vlastnosti\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Vlastnosti\\Vlastnosti\\Program.cs*",
+              "RelativeToolTip": "Vlastnosti\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T12:44:19.764Z",
               "EditorCaption": ""

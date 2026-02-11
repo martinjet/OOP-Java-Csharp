@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Dedicnost
+{
+    internal class Clovek
+    {
+
+        //vlastnosti
+        public string Jmeno { get; protected set; }
+
+        protected int vek;
+        public int Vek {
+            get { return vek; }
+            set {
+                vek = value;
+                jeDospely = value >= 18; }
+        }
+
+        //atributy (promenne nalezici tride)
+        protected bool jeDospely;
+
+        //konstruktor
+        public Clovek(string jmeno, int vek)
+        {
+            this.Jmeno = jmeno;
+            this.Vek = vek;
+        }
+
+        //metody (funkce nalezici tride)
+        public virtual void Pozdrav()
+        {
+            Console.WriteLine($"Ahoj posila {Jmeno} ve veku {Vek} je dospely {jeDospely} ze tridy Clovek");
+        }
+
+        public override string ToString()
+        {
+            return $"{Jmeno} + {Vek}";
+        }
+    }
+}

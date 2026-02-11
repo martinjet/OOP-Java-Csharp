@@ -10,7 +10,7 @@ namespace Konstruktor
         //atributy (promenne nalezici tride)
         private string jmeno;
         private int vek;
-        private Boolean jeDospely;
+        private bool jeDospely;
 
         public string GetJmeno()
         {
