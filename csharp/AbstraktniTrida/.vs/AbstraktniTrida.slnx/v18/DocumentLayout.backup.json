@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6CFF44-D5FC-4435-860B-E85B3D81D1B1}|AbstraktniTrida\\AbstraktniTrida.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\abstraktnitrida\\abstraktnitrida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6CFF44-D5FC-4435-860B-E85B3D81D1B1}|AbstraktniTrida\\AbstraktniTrida.csproj|solutionrelative:abstraktnitrida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6CFF44-D5FC-4435-860B-E85B3D81D1B1}|AbstraktniTrida\\AbstraktniTrida.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\abstraktnitrida\\abstraktnitrida\\clovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6CFF44-D5FC-4435-860B-E85B3D81D1B1}|AbstraktniTrida\\AbstraktniTrida.csproj|solutionrelative:abstraktnitrida\\clovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6CFF44-D5FC-4435-860B-E85B3D81D1B1}|AbstraktniTrida\\AbstraktniTrida.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\abstraktnitrida\\abstraktnitrida\\programator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6CFF44-D5FC-4435-860B-E85B3D81D1B1}|AbstraktniTrida\\AbstraktniTrida.csproj|solutionrelative:abstraktnitrida\\programator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6CFF44-D5FC-4435-860B-E85B3D81D1B1}|AbstraktniTrida\\AbstraktniTrida.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\abstraktnitrida\\abstraktnitrida\\jazyktyp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6CFF44-D5FC-4435-860B-E85B3D81D1B1}|AbstraktniTrida\\AbstraktniTrida.csproj|solutionrelative:abstraktnitrida\\jazyktyp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JazykTyp.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\AbstraktniTrida\\JazykTyp.cs",
+              "RelativeDocumentMoniker": "AbstraktniTrida\\JazykTyp.cs",
+              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\AbstraktniTrida\\JazykTyp.cs",
+              "RelativeToolTip": "AbstraktniTrida\\JazykTyp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:21:03.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programator.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\AbstraktniTrida\\Programator.cs",
+              "RelativeDocumentMoniker": "AbstraktniTrida\\Programator.cs",
+              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\AbstraktniTrida\\Programator.cs",
+              "RelativeToolTip": "AbstraktniTrida\\Programator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:04:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clovek.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\AbstraktniTrida\\Clovek.cs",
+              "RelativeDocumentMoniker": "AbstraktniTrida\\Clovek.cs",
+              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\AbstraktniTrida\\Clovek.cs",
+              "RelativeToolTip": "AbstraktniTrida\\Clovek.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:02:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\AbstraktniTrida\\Program.cs",
+              "RelativeDocumentMoniker": "AbstraktniTrida\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\AbstraktniTrida\\AbstraktniTrida\\Program.cs*",
+              "RelativeToolTip": "AbstraktniTrida\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:59:18.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

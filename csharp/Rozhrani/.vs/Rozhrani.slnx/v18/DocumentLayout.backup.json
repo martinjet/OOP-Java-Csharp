@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Rozhrani\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C77888BD-DB63-49C8-84E9-D259C2CD3058}|Rozhrani\\Rozhrani.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\rozhrani\\rozhrani\\iclovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77888BD-DB63-49C8-84E9-D259C2CD3058}|Rozhrani\\Rozhrani.csproj|solutionrelative:rozhrani\\iclovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77888BD-DB63-49C8-84E9-D259C2CD3058}|Rozhrani\\Rozhrani.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\rozhrani\\rozhrani\\clovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77888BD-DB63-49C8-84E9-D259C2CD3058}|Rozhrani\\Rozhrani.csproj|solutionrelative:rozhrani\\clovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77888BD-DB63-49C8-84E9-D259C2CD3058}|Rozhrani\\Rozhrani.csproj|c:\\users\\martin\\desktop\\oop java csharp kurz\\csharp\\rozhrani\\rozhrani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77888BD-DB63-49C8-84E9-D259C2CD3058}|Rozhrani\\Rozhrani.csproj|solutionrelative:rozhrani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clovek.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Rozhrani\\Rozhrani\\Clovek.cs",
+              "RelativeDocumentMoniker": "Rozhrani\\Clovek.cs",
+              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Rozhrani\\Rozhrani\\Clovek.cs",
+              "RelativeToolTip": "Rozhrani\\Clovek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:35:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IClovek.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Rozhrani\\Rozhrani\\IClovek.cs",
+              "RelativeDocumentMoniker": "Rozhrani\\IClovek.cs",
+              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Rozhrani\\Rozhrani\\IClovek.cs",
+              "RelativeToolTip": "Rozhrani\\IClovek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:33:48.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Rozhrani\\Rozhrani\\Program.cs",
+              "RelativeDocumentMoniker": "Rozhrani\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\Desktop\\OOP Java Csharp kurz\\csharp\\Rozhrani\\Rozhrani\\Program.cs",
+              "RelativeToolTip": "Rozhrani\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:32:05.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
