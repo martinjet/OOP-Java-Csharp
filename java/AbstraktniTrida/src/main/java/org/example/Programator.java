@@ -5,6 +5,7 @@ public class Programator extends Clovek {
     //private String jazyk;
     private JazykTyp jazyk;
 
+
     public Programator(String jmeno, int vek, JazykTyp jazyk) {
 
         super(jmeno, vek);

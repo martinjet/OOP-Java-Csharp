@@ -6,7 +6,7 @@ public class Main {
         //Clovek karel = new Clovek("karel", 26, "python");
 
         Clovek jana = new Programator("jana", 26, JazykTyp.CSHARP);
-        Clovek karolina = new Programator("karolina", 32, JazykTyp.PYTHON);
+        Clovek karolina = new Programator("karolina", 32, JazykTyp.JAVA);
 
         System.out.println(jana);
 
